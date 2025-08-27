@@ -1,0 +1,28 @@
+{
+  "name": "carbion",
+  "version": "1.0.0",
+  "description": "tcc",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ambrozevicius/CARBION.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Ambrozevicius/CARBION/issues"
+  },
+  "homepage": "https://github.com/Ambrozevicius/CARBION#readme",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "express": "^5.1.0",
+    "express-session": "^1.18.2",
+    "mongodb": "^6.19.0"
+  }
+}
